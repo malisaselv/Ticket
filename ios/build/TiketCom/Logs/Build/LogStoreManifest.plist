@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5CDB70A4-4785-4A3E-806A-623A82D6522C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CDB70A4-4785-4A3E-806A-623A82D6522C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TiketCom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TiketCom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TiketCom with scheme TiketCom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591099831.76019597</real>
+			<key>timeStoppedRecording</key>
+			<real>591099833.17260301</real>
+			<key>title</key>
+			<string>Building workspace TiketCom with scheme TiketCom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5CDB70A4-4785-4A3E-806A-623A82D6522C</string>
+		</dict>
+		<key>A80F91AE-E08E-4A95-8B8A-C6233FC0B603</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A80F91AE-E08E-4A95-8B8A-C6233FC0B603.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TiketCom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TiketCom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TiketCom with scheme TiketCom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590927700.58997905</real>
+			<key>timeStoppedRecording</key>
+			<real>590927701.89400899</real>
+			<key>title</key>
+			<string>Building workspace TiketCom with scheme TiketCom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A80F91AE-E08E-4A95-8B8A-C6233FC0B603</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

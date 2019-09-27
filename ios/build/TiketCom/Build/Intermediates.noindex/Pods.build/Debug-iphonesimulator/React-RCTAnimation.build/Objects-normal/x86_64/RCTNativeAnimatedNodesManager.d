@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/malisaselviana/Workspace/TiketCom/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/malisaselviana/Workspace/TiketCom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
