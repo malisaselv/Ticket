@@ -1,4 +1,2 @@
 # TiketDotCom
-# uploadTiket
-# uploadTiket
-# TicketApp
+# TicketAppClone
